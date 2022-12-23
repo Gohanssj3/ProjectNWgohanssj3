@@ -1,9 +1,4 @@
---Uploaded On https://youtube.com/@gohanssj3
---Published on https://youtube.com/@gohanssj3
---Credits goes to the devs!
---Scripts Below:
---Scripts
--- Objects
+
 local AnisForCommandAndMore = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
 local BeautyA = Instance.new("Frame")
